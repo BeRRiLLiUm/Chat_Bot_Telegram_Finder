@@ -11,7 +11,7 @@ import telebot
 
 
 # Telegram Bot API token
-API_TOKEN = '5864283433:AAEZHGT7ncsRjmIEoLNXCk87Tl7_8-so-wQ'
+API_TOKEN = 'TOKEN'
 
 # Initialize the bot and set up the database
 #бд содержит одну таблицу и ориентируется только по ней
